@@ -117,4 +117,18 @@ unsl-egresados-xlsx/
 
 ---
 
+## 👨‍💻 Autor
+
+### Mariano Saitua
+
+**Desarrollador de Software · Data Analytics · Business Intelligence**
+
+📌 **LinkedIn:**
+https://www.linkedin.com/in/msaitua
+
+💻 **GitHub:**
+https://github.com/msaitua
+
+---
+
 *Generado con Python · pandas · Abril 2025*
